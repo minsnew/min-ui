@@ -1,0 +1,15 @@
+{
+  "name": "min-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/minsnew/min-ui.git",
+  "author": "minsnew <minsnew@naver.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
